@@ -11,4 +11,4 @@
 1. [简书](https://www.jianshu.com/u/1c2a18455371)
 2. [lilq.cn](http://lilq.cn)
 3. Email:1583090876@qq.com
-4. WeChat:guidege666
+4. WeChat:lilq-cn
