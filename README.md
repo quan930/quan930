@@ -11,5 +11,5 @@
 
 ## Readme Stats
 <a href="http://lilq.cn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=quan930&count_private=true&show_icons=true&hide=issues&hide_title=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=quan930&count_private=true&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&theme=radical" />
 </a>
